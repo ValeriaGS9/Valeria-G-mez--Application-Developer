@@ -1,6 +1,4 @@
 # Valeria Gómez- Application Developer
 
-
-
-Valeria Gómez Soriano es estudiante de 2º curso de la formación profesional superior de Desarrollo de Aplicaciones Multiplataforma (DAM). Su especialización para el desarrollo de las aplicaciones se encuentra bajo los lenguajes de Java, Kotlin, así como MySQL para la gestión de bases de datos.
-Actualmente, comenzará el 2º curso de la fp anteriormente nombrada e inicio de B2.1 de inglés en la Escuela Oficial de Idiomas de Molina de Segura. En su tiempo libre, le gusta formarse a través de cursos en Administración de Sistemas Linux o Ciberseguridad.
+Valeria Gómez Soriano is  a student of 2nd year of the higher professional training of Multiplataform Application Development (DAM). Her specialization for the development of applications is under the languages of Java, Kotlin, aas well as MySQL for database management.
+Currently, The second year of the above-mentioned vocational training will begin and start of B2.1 of English in the official school of languages of Molina de Segura. In her spare time, she likes to train through courses in Linux System Administration or Cybersecurity.
