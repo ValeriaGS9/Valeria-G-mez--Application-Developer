@@ -1,6 +1,6 @@
 # Valeria Gómez- Application Developer
 
-https://chromedino.com/mario/
+//chromedino.com/mario/
 
 
 Valeria Gómez Soriano is  a student of 2nd year of the higher professional training of Multiplataform Application Development (DAM). Her specialization for the development of applications is under the languages of Java, Kotlin, aas well as MySQL for database management.
